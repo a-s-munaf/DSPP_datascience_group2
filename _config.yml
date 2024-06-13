@@ -1,5 +1,3 @@
-title: Data Science Project
-#logo: /assets/img/headshot_circle.png
-description: This is an example i am working on
-show_downloads: true
-theme: Modernist
+title: Data science dummy project
+#description: text below image
+theme: jekyll-theme-minimal
