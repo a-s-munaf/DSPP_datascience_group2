@@ -18,5 +18,9 @@ Hello this is another heading
 
 [URL name](https://www.markdownguide.org/cheat-sheet/)
 
+# Bring in the histogram
+
+![Histogram](assets/images/histogram-example-2.png)
+
 
 
