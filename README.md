@@ -4,6 +4,12 @@
 Hello, this is my dummy portfolio
 
 
+1. Project Background
+
+The aim of this project was to identify different personality types within a company’s (dummy) customer data set. Understanding personality types within a company’s customer base, allows them to tailor their product offering, marketing campaigns and customer service activity to specifically meet their customer’s needs and behaviours. Ultimately, enabling them to maximise their ROI as they build loyalty.
+
+A K-Means clustering algorithm was applied to the dataset to identify 4 core clusters making up the customer base.
+
 ## Headings 2
 
 ### Headings 3
